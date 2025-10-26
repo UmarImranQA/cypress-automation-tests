@@ -111,3 +111,25 @@ Umar Imran
 Quality Assurance Engineer in training
 
 GitHub: https://github.com/UmarImranQA
+
+
+
+
+## Recent Updates
+
+**October 20, 2025**
+- Initial project setup and first test files created.
+- Installed dependencies and configured Cypress (version 10.9 at the time).
+- Added sample test (`My First Test`) to verify setup.
+
+  
+**October 26, 2025**
+- Merged all branches into the main branch to keep the project clean.
+- Fixed merge conflicts and ensured all test files are properly synced.
+- Updated Cypress to version **15.0.0** for better performance and compatibility.
+- Cleaned up the project folder structure and cache.
+- Added a clear setup guide and troubleshooting steps in the README.
+
+
+
+
