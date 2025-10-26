@@ -8,13 +8,16 @@ It’s a practice and learning project to explore writing, running, and managing
 - Framework: Cypress  
 - Language: JavaScript  
 - Folder structure:
+  
   cypress/
+  
 ├── e2e/ # Test files (.cy.js)
+
 ├── fixtures/ # Test data
+
 └── support/ # Commands and setup
 
 
----
 
 ## Setup Instructions
 
